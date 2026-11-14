@@ -1,0 +1,6 @@
+{
+  "name": "Pifagor Laboratoriyasi — Geometriya BSB",
+  "description": "8-sinf Geometriya BSB uchun Pifagor teoremasi: interaktiv uchburchak simulyatori, vizual isbotlar, kalkulyator, hayotiy masalalar va nazorat testi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
